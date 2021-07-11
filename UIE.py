@@ -1,7 +1,8 @@
 import tkinter as tk
 import tkinter.font as tkFont
+#main class
 
-class App:
+Class App:
     def __init__(self, root):
         #setting title
         root.title("JMeter Configuration")
