@@ -1,0 +1,13 @@
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"App - /v1/product-compare",200,374198,"103.94","11.98","18.97","24.54"
+"App - /v1/product-compare",206,124,"0.03","34.13","41.70","53.40"
+"App - /v1/product-compare",207,14,"0.00","30.29","36.70","37.70"
+"App - /v1/product-compare",404,50,"0.01","30.36","35.00","37.10"
+"App - /v1/items",200,894015,"248.34","8.23","13.04","21.68"
+"App - /v1/items",207,1,"0.00","24.00","24.00","24.00"
+"App - /v1/items",404,10,"0.00","21.80","26.40","28.20"
+"App - /v1/wishlist-product-aggregator",200,81232,"22.56","17.78","35.88","46.76"
+"App - /v1/wishlist-product-aggregator",206,38198,"10.61","54.34","80.36","102.39"
+"App - /v1/wishlist-product-aggregator",207,341,"0.09","23.15","31.00","36.00"
+"App - /v1/wishlist-product-aggregator",404,1694,"0.47","23.48","30.01","37.21"
+"App - /v1/store-availability-service",200,5,"0.00","77.80","92.60","96.80"

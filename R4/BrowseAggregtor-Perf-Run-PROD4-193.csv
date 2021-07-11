@@ -1,0 +1,10 @@
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"App - /v2/sku-offerings",200,858500,"238.47","33.32","44.18","53.48"
+"App - /v2/sku-offerings",206,5650,"1.57","38.05","48.45","56.51"
+"App - /v2/sku-offerings",404,7,"0.00","76.00","135.40","140.20"
+"App - /v2/product-aggregator/*/additional-details",200,362626,"100.73","44.27","74.04","104.31"
+"App - /v2/product-aggregator/*/additional-details",206,36,"0.01","45.06","65.00","81.75"
+"App - Only /product-aggregator/",200,1535517,"426.53","11.45","19.20","29.71"
+"App - Only /product-aggregator/",206,63,"0.02","8.76","12.00","13.90"
+"App - Only /product-aggregator/",404,1650,"0.46","5.47","8.00","10.69"
+"App - Only /product-aggregator/",500,117,"0.03","5.84","11.40","13.20"

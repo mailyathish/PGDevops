@@ -1,0 +1,8 @@
+Endpoint,StatusCode,TPS,Count,Avg,P90,P95
+"content-api/shared-components/zones/SiteWidePromo/s*",20,"0.00",1,,,
+"content-api/shared-components/zones/SiteWidePromo/s*",200,"30.25",108899,"6.74","8.00","8.00"
+"content-api/shared-components/zones/SiteWidePromo/s*",404,"0.05",171,"3.92","5.00","5.00"
+"content-api/shared-components/zones/SiteWidePromo/g*",200,"50.96",183472,"7.35","8.00","9.00"
+"content-api/shared-components/zones/SiteWidePromo/cart*",200,"0.00",1,"7.00","7.00","7.00"
+"content-api/shared-components/zones/SiteWidePromo/checkout/oc*",200,"2.74",9849,"7.62","9.00","9.00"
+"content-api/shared-components/zones/SiteWidePromo/home*",200,"0.00",3,"7.67","8.00","8.00"

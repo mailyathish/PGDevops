@@ -1,0 +1,15 @@
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+promise,200,539523,"149.87","16.17",23,"27.019325611189384"
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"promise reserve",200,5985,"1.66","72.37","208.27000000000004","247.18778594771243"
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"v1/lightsourcing/getinventory",200,540585,"150.16","10.51","15.44161801140053",18
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"v1/availability/skuLocations",2,4,"0.00",,,
+"v1/availability/skuLocations",20,3,"0.00",,,
+"v1/availability/skuLocations",200,735836,"204.40","10.35","16.762145669682926","24.74379571891524"
+"v1/availability/skuLocations",400,152,"0.04","0.82",1,1
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+qualitativeStatus,200,5561,"1.54","6.75",9,10
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"api/v2/inventory/reservations",200,3949,"1.10","80.66","180.09675000000001","207.95563695563698"

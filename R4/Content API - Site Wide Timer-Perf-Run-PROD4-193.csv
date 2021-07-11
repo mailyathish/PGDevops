@@ -1,0 +1,7 @@
+Endpoint,StatusCode,TPS,Count,Avg,P90,P95
+"content-api/shared-components/zones/SiteWideTimer/s*",200,"71.74",258279,"5.82","7.00","7.00"
+"content-api/shared-components/zones/SiteWideTimer/s*",404,"0.09",340,"3.98","5.00","5.00"
+"content-api/shared-components/zones/SiteWideTimer/g*",200,"197.81",712124,"5.84","7.00","7.00"
+"content-api/shared-components/zones/SiteWideTimer/p*",200,"0.00",5,"6.60","7.00","7.00"
+"content-api/shared-components/zones/SiteWideTimer/d*",200,"1.90",6854,"7.00","8.38","9.00"
+"content-api/shared-components/zones/SiteWideTimer/home*",200,"0.51",1824,"6.82","8.00","8.00"

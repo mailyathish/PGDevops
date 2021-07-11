@@ -1,0 +1,7 @@
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+promise,20,5,"0.00",,,
+promise,200,1814281,"503.97","13.05","20.00","23.12"
+"promise reserve",200,26558,"7.38","24.19","39.80","45.12"
+"v1/availability/skuLocations",200,2212932,"614.70","10.97","17.73","24.13"
+qualitativeStatus,200,23370,"6.49","9.04","12.99","14.00"
+"api/v2/inventory/reservations",200,3279,"0.91","33.43","36.12","40.00"

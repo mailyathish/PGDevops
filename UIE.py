@@ -1,6 +1,8 @@
 import tkinter as tk
 import tkinter.font as tkFont
 
+#main class 
+
 class App:
     def __init__(self, root):
         #setting title

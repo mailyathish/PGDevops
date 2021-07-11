@@ -1,0 +1,10 @@
+Endpoint,StatusCode,Count,TPS,Avg,P90,P95
+"app- /v3/product-specifications",200,16580,"4.61","3.59","4.00","5.00"
+"app- v3/products/",200,44801,"12.44","5.04","6.00","7.00"
+"app- v3/products/",404,50661,"14.07","3.80","4.00","5.00"
+"app- /v3/ensemble-collections/",2,1,"0.00",,,
+"app- /v3/ensemble-collections/",200,4623,"1.28","4.06","5.00","5.00"
+"app- /v3/items/",2,1,"0.00",,,
+"app- /v3/items/",200,166591,"46.28","5.03","6.00","6.00"
+"app- /v3/items/",404,11,"0.00","4.64","5.00","5.00"
+"app- v3/customization-models/",200,8,"0.00","4.50","5.00","5.00"
